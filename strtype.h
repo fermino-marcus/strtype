@@ -14,6 +14,7 @@
 #endif
 
 int _FUNC(getstring, (char * , int));
+int _FUNC(fgetstring, (FILE *, char *, int));
 
 
 #endif/*_STRTYPE_H_*/
